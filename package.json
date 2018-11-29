@@ -1,0 +1,24 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "node.js express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peradus/expressapp.git"
+  },
+  "author": "P.Eradus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peradus/expressapp/issues"
+  },
+  "homepage": "https://github.com/peradus/expressapp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.7"
+  }
+}
